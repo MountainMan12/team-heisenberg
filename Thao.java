@@ -6,5 +6,6 @@ public class Thao {
         String biostack = ("drug development");
         String slackname = ("@Thao");
         System.out.print(name+","+email+","+language+","+biostack+","+slackname);
+        System.out.println("");
     }
 }
