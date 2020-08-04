@@ -8,5 +8,5 @@ class Intern:
 
 intern = Intern("NnamdiObiagwu", "DataAnalytics",
                 "Python", "obiagwu.nnamdi@yahoo.com", "@obiagwuNnamdi")
-print("Hello World, this is {} with biostack {} and email {} using {} for stage 0 task with slackusername {}.".format(
-    intern.fullname, intern.biostack, intern.email, intern.language, intern.slackusername))
+print("{},{},{},{},{}".format(
+    intern.fullname, intern.email, intern.language, intern.biostack, intern.slackusername))
