@@ -10,7 +10,10 @@
 4. perl 5, version 30, subversion 0 (v5.30.0)
 5. R version 4.0.2
 
-## Workflow: TO BE ADDED
+## Workflow:
+
+![Workflow](team-heisenberg-flow.png)
+
 
 ### Deadline for task: 6th of August, 2020.
 
