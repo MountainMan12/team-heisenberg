@@ -12,7 +12,7 @@
 
 ## Workflow:
 
-
+![](Images/Team-heisenberg-flow.jpg)
 
 
 ### Deadline for task: 6th of August, 2020.
