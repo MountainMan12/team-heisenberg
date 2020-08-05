@@ -12,7 +12,7 @@
 
 ## Workflow:
 
-![Workflow](https://github.com/MountainMan12/team-heisenberg/blob/master/Team-heisenberg-flow)
+
 
 
 ### Deadline for task: 6th of August, 2020.
