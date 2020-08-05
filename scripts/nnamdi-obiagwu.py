@@ -6,7 +6,7 @@ class Intern:
         self.email = email
         self.slackusername =slackusername
 
-intern = Intern("NnamdiObiagwu", "DataAnalytics",
-                "Python", "obiagwu.nnamdi@yahoo.com", "@obiagwuNnamdi")
+intern = Intern("NnamdiObiagwu", "obiagwu.nnamdi@yahoo.com",
+                "Python", "Data Analytics", "@obiagwuNnamdi")
 print("{},{},{},{},{}".format(
     intern.fullname, intern.email, intern.language, intern.biostack, intern.slackusername))
