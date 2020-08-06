@@ -10,11 +10,16 @@
 4. perl 5, version 30, subversion 0 (v5.30.0)
 5. R version 4.0.2
 
+### INSTRUCTIONS:
+- The final CSV file will be generated in folder team-heisenberg
+
 ## Workflow:
 
 ![](Images/Team-heisenberg-flow.jpg)
 
 
 ### Deadline for task: 6th of August, 2020.
+
+### Contact @Pawan for queries and issues
 
 
