@@ -12,6 +12,7 @@
 
 ### INSTRUCTIONS:
 - The final CSV file will be generated in folder team-heisenberg
+- NOTE: Generate the CSV file only once. If you want to generate it more than once in the same location, please remove the previous CSV file
 
 ## Workflow:
 
